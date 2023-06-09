@@ -1,0 +1,309 @@
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:08:30"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:08:30"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:11:36"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:11:36"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:13:08"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:13:08"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:13:24"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:13:24"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:14:00"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:14:00"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:14:18"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:14:18"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:14:26","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:14:26","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:15:05","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:15:21","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:15:21","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:15:24","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:15:24","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:15:24","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:15:24","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:17:19","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:17:19","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:17:19","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:17:19","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:17:49"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:17:49"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:18:19","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:18:44","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:19:06"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:19:06"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:19:13","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:19:21"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:19:21"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:19:22","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:19:31"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:19:31"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:19:43","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:20:08"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:20:08"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:20:10","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:20:20"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:20:20"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:20:22","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:20:41"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:20:41"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:20:48"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:20:48"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:20:51"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:20:51"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:20:57","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:21:26"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:21:26"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:21:28","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:21:38","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:22:03"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:22:03"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:22:29","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:22:55","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:22:59","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:23:10"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:23:10"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:23:11","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:23:22"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:23:22"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:23:22","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:23:31"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:23:31"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:23:32","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 16:23:41"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 16:23:41"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:23:43","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:23:43","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:23:43","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:23:43","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:01","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:01","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:01","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:01","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:02","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:02","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:02","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:02","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:03","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:03","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:03","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:03","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:08","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:08","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:08","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:08","url":"/api/image/getAllStore"}
+{"body":[{"id":3,"name":"03.jpg"},{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:24:10","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":2,"name":"02.jpg"},{"id":1,"name":"01.jpg"},{"id":3,"name":"03.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:24:13","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:14","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:14","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:14","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:24:14","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:30:38","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:30:38","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:30:38","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:30:38","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:34:42","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:34:42","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:34:42","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:34:42","url":"/api/image/getAllStore"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:07","url":"/api/image/upLoad"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:35:09","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:35:09","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:35:09","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:35:10","url":"/api/image/getAllStore"}
+{"body":[{"id":0,"name":"00.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:13","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:35:14","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:35:14","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:35:14","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:35:14","url":"/api/image/getAllStore"}
+{"body":[],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:17","url":"/api/image/updateImage"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:18","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:20","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:22","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:24","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:26","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:28","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:30","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:32","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:34","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:36","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:38","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:40","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:42","url":"/api/image/upLoad"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"},{"id":9,"name":"09.jpg"},{"id":12,"name":"12.jpg"},{"id":8,"name":"08.jpg"},{"id":10,"name":"10.jpg"},{"id":11,"name":"11.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:47","url":"/api/image/updateImage"}
+{"body":[{"id":1,"name":"01.jpg"},{"id":3,"name":"03.jpg"},{"id":5,"name":"05.jpg"},{"id":0,"name":"00.jpg"},{"id":2,"name":"02.jpg"},{"id":4,"name":"04.jpg"},{"id":9,"name":"09.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"},{"id":8,"name":"08.jpg"},{"id":10,"name":"10.jpg"},{"id":11,"name":"11.jpg"},{"id":12,"name":"12.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:53","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":3,"name":"03.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"},{"id":4,"name":"04.jpg"},{"id":12,"name":"12.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"},{"id":8,"name":"08.jpg"},{"id":9,"name":"09.jpg"},{"id":10,"name":"10.jpg"},{"id":11,"name":"11.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:35:59","url":"/api/image/updateImage"}
+{"body":[{"id":2,"name":"02.jpg"},{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":3,"name":"03.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":8,"name":"08.jpg"},{"id":9,"name":"09.jpg"},{"id":12,"name":"12.jpg"},{"id":7,"name":"07.jpg"},{"id":10,"name":"10.jpg"},{"id":11,"name":"11.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:39:19","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:39:20","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:39:20","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:39:20","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:39:20","url":"/api/image/getAllStore"}
+{"body":[{"id":12,"name":"12.jpg"},{"id":11,"name":"11.jpg"},{"id":7,"name":"07.jpg"},{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":8,"name":"08.jpg"},{"id":9,"name":"09.jpg"},{"id":10,"name":"10.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:39:39","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:39:42","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:39:42","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:39:42","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:39:42","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:41:06","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:41:06","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:43:53","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:43:53","url":"/api/image/getAllStore"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"},{"id":8,"name":"08.jpg"},{"id":9,"name":"09.jpg"},{"id":10,"name":"10.jpg"},{"id":11,"name":"11.jpg"},{"id":12,"name":"12.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:44:29","url":"/api/image/updateImage"}
+{"body":[{"id":3,"name":"03.jpg"},{"id":2,"name":"02.jpg"},{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"},{"id":8,"name":"08.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:44:33","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:44:38","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:44:38","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:44:38","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:44:38","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:48:37","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:48:37","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:48:37","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:48:37","url":"/api/image/getAllStore"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"},{"id":8,"name":"08.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:48:54","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:48:58","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":2,"name":"02.jpg"},{"id":1,"name":"01.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:49:01","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:02","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:02","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:02","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:02","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:43","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:43","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:45","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:45","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:49","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:49:49","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:50:12","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:50:12","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:51:35","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:51:35","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:51:39","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:51:39","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:51:39","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:51:39","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:54:10","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:54:10","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:54:10","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:54:10","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:55:07","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:55:07","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:55:07","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 16:55:07","url":"/api/image/getAllStore"}
+{"body":[{"id":2,"name":"02.jpg"},{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:57:00","url":"/api/image/updateImage"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:57:04","url":"/api/image/upLoad"}
+{"body":[{"id":2,"name":"02.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 16:57:13","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:04:56","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:04:56","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:04:56","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:04:57","url":"/api/image/getAllStore"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:05:08","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:05:13","url":"/api/image/upLoad"}
+{"body":[{"id":2,"name":"02.jpg"},{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:05:18","url":"/api/image/updateImage"}
+{"body":[],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:05:21","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:05:23","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:05:23","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:05:23","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:05:23","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:06:07","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:06:07","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:06:07","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:06:07","url":"/api/image/getAllStore"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:06:11","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:06:12","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:06:14","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:06:16","url":"/api/image/upLoad"}
+{"body":[{"id":3,"name":"03.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:06:19","url":"/api/image/updateImage"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:06:21","url":"/api/image/upLoad"}
+{"body":[],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:06:28","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:10:03","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:10:03","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:10:03","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:10:03","url":"/api/image/getAllStore"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:10:45","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:10:51","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:10:56","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:11:03","url":"/api/image/upLoad"}
+{"body":[{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"},{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:11:19","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":3,"name":"03.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:11:30","url":"/api/image/updateImage"}
+{"body":[{"id":2,"name":"02.jpg"},{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:11:45","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:12:18","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:12:18","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:12:18","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:12:18","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:14:26","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:14:26","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:14:26","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:14:26","url":"/api/image/getAllStore"}
+{"body":[],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:14:30","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:31:23","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:31:23","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:31:23","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:31:24","url":"/api/image/getAllStore"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:31:27","url":"/api/image/upLoad"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:31:33","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:31:34","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:31:34","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:31:34","url":"/api/image/getAllStore"}
+{"body":[],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:31:36","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:39:30","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:39:30","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:39:30","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:39:30","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:40:03","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:40:03","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:40:03","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:40:04","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:40:05","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:40:05","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:40:05","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:40:05","url":"/api/image/getAllStore"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:35","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:37","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:39","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:41","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:43","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:45","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:47","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:49","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:51","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:53","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:55","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:40:57","url":"/api/image/upLoad"}
+{"body":[{"id":11,"name":"11.jpg"},{"id":10,"name":"10.jpg"},{"id":0,"name":"00.jpg"},{"id":9,"name":"09.jpg"},{"id":1,"name":"01.jpg"},{"id":8,"name":"08.jpg"},{"id":2,"name":"02.jpg"},{"id":4,"name":"04.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:41:55","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:42:11","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:42:11","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:42:11","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 17:42:12","url":"/api/image/getAllStore"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"},{"id":8,"name":"08.jpg"},{"id":9,"name":"09.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:42:22","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"},{"id":7,"name":"07.jpg"},{"id":8,"name":"08.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:42:28","url":"/api/image/updateImage"}
+{"body":[{"id":1,"name":"01.jpg"},{"id":4,"name":"04.jpg"},{"id":0,"name":"00.jpg"},{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:42:34","url":"/api/image/updateImage"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:42:41","url":"/api/image/upLoad"}
+{"body":[{"id":1,"name":"01.jpg"},{"id":3,"name":"03.jpg"},{"id":0,"name":"00.jpg"},{"id":2,"name":"02.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 17:45:37","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:14:19","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:14:19","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:14:19","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:14:20","url":"/api/image/getAllStore"}
+{"body":[],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:26","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:14:28","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:14:28","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:14:28","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:14:28","url":"/api/image/getAllStore"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:33","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:35","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:37","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:39","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:41","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:43","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:46","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:47","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:49","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:51","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:53","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:55","url":"/api/image/upLoad"}
+{"body":{},"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:14:56","url":"/api/image/upLoad"}
+{"body":[{"id":12,"name":"12.jpg"},{"id":11,"name":"11.jpg"},{"id":0,"name":"00.jpg"},{"id":8,"name":"08.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":9,"name":"09.jpg"},{"id":10,"name":"10.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:15:17","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":4,"name":"04.jpg"},{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"},{"id":8,"name":"08.jpg"},{"id":9,"name":"09.jpg"},{"id":10,"name":"10.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:15:25","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":3,"name":"03.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":7,"name":"07.jpg"},{"id":8,"name":"08.jpg"},{"id":9,"name":"09.jpg"},{"id":10,"name":"10.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:15:29","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"},{"id":8,"name":"08.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:15:34","url":"/api/image/updateImage"}
+{"body":[{"id":7,"name":"07.jpg"},{"id":0,"name":"00.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:15:41","url":"/api/image/updateImage"}
+{"body":[{"id":0,"name":"00.jpg"},{"id":7,"name":"07.jpg"},{"id":1,"name":"01.jpg"},{"id":2,"name":"02.jpg"},{"id":3,"name":"03.jpg"},{"id":4,"name":"04.jpg"},{"id":5,"name":"05.jpg"},{"id":6,"name":"06.jpg"}],"level":"info","message":"Passed","method":"POST","params":"","query":"","timestamp":"2023-06-02 18:18:58","url":"/api/image/updateImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:19:03","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:19:03","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:19:03","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-02 18:19:04","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-02 18:27:03"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-02 18:27:03"}

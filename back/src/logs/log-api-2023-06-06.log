@@ -1,0 +1,154 @@
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 09:35:18"}
+{"level":"info","message":"API listening port 4507","timestamp":"2023-06-06 09:35:18"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 09:54:01"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 09:54:01"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 10:01:55"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 10:01:55"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 10:04:16"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 10:04:16"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 10:04:34"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 10:04:34"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 10:11:51"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 10:11:51"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 10:12:03"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 10:12:03"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 10:14:56"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 10:14:56"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 10:15:05"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 10:15:05"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 10:15:10"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 10:15:10"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 10:15:49"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 10:15:49"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 11:05:05"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 11:05:05"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 11:05:28"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 11:05:28"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 11:10:22"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 11:10:22"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 11:23:50"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 11:23:50"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 11:25:30"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 11:25:30"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 12:24:28"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 12:24:28"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 12:25:00"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 12:25:00"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:33:35","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:33:35","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:33:35","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:33:35","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:36:25","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:36:25","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:36:25","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:36:25","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:39:28","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:39:28","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:39:28","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:39:28","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:39:53","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:39:53","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 12:42:07"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 12:42:07"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:42:57","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:42:57","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:49:01","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:49:02","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:49:05","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:49:05","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:49:05","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:49:05","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 12:57:30"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 12:57:30"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:57:40","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:57:40","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:57:40","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 12:57:41","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:03:56"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:03:56"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:06:41"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:06:41"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:07:28"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:07:28"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:08:07"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:08:07"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:08:16"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:08:16"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:08:18","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:08:18","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:08:18","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:08:18","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:08:30"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:08:30"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:08:32"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:08:32"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:08:34"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:08:34"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:10:17","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:10:17","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:10:31","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:10:31","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:10:31","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:10:32","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:11:05"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:11:05"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:11:16"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:11:16"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:28:42"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:28:42"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:36:32","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:36:32","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:36:32","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:36:32","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:37:06"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:37:06"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:37:15","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:37:15","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:39:41"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:39:41"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:39:45","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:39:45","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:39:45","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:39:45","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:39:48","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:39:48","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:39:48","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:39:48","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:39:56"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:39:56"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:44:53","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:44:53","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:44:53","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:44:54","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:44:58","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:44:58","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:45:06","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:45:06","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:45:06","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:45:06","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:45:14","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:45:14","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:47:06","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:47:06","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:47:06","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:47:11","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:51:16"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:51:16"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:51:34"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:51:34"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:52:02"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:52:02"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:52:51","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:52:51","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:52:51","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:52:51","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:52:53","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:52:53","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:52:53","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:52:54","url":"/api/image/getAllStore"}
+{"level":"info","message":"API running on Development","timestamp":"2023-06-06 13:54:27"}
+{"level":"info","message":"API listening port 3001","timestamp":"2023-06-06 13:54:27"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:55:05","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:55:05","url":"/api/image/getAllStore"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:55:05","url":"/api/image/loadImage"}
+{"body":"","level":"info","message":"Passed","method":"GET","params":{},"query":{},"timestamp":"2023-06-06 13:55:05","url":"/api/image/getAllStore"}
